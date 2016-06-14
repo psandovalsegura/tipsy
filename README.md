@@ -27,13 +27,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/XlYqh7C' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some of the challenges so far have been:
+
+Experiencing a key value coding-compliant from XCode because of a missing outlet. I resolved this problem referring to https://guides.codepath.com/ios/Common-Issues#2-error-this-class-is-not-key-value-coding-compliant-for-the-key
 
 ## Credits
 
